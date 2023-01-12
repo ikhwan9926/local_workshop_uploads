@@ -1,1 +1,0 @@
-git@github.com:ikhwan9926/local_workshop_uploads.git
